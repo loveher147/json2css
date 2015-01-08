@@ -1,6 +1,6 @@
 {
-  "name": "json2css",
-  "description": "Convert JSON into pre-processor ready CSS",
+  "name": "json2css-extend",
+  "description": "Convert JSON into pre-processor ready CSS, extend unit(rem)",
   "version": "5.2.2",
   "homepage": "https://github.com/twolfson/json2css",
   "author": {
